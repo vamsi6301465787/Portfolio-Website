@@ -1,0 +1,202 @@
+
+/* .custom-font {
+    color: #ffffff !important;
+    font-size: 25px;
+} */
+
+.hamburgericon {
+    font-size: 35px;
+}
+
+.custom-j-font {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.custom-j {
+    padding: 20px;
+    border-style: solid;
+    border-color: #4b6cc1;
+}
+
+.portfolio-banner-section {
+    background-color: #191a1d;
+    padding: 10px;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.portfolio-banner-paragraph {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.banner-section-image {
+    text-align: center;
+    height: 100%;
+    width: 70%;
+}
+
+.custom-button {
+    background-color: #4b6cc1;
+}
+
+
+.banner-section-name {
+    color: #4b6cc1;
+}
+
+
+
+
+
+
+.Portfoliowebsite-main-container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.Portfoliowebsite-bg-container {
+    background-color: #323f4b;
+}
+
+.Portfoliowebsite-skills-section {
+    background-color: #1f2933;
+    padding: 8.5%;
+    height: 70%;
+
+}
+
+.Portfoliowebsite-about-heading {
+    color: #cced00;
+}
+
+.portfolio-about-image {
+    width: 100%;
+}
+
+.Portfoliowebsite-about-paragraph {
+    color: #9aa5b1;
+}
+
+.technologies {
+    background-color: #323f4b;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    width: 100%;
+
+}
+
+
+
+
+
+
+.projects-bg-container {
+    background-color: #3e4c59;
+    width: 100%;
+    height: 100%;
+}
+
+.project-cards {
+    background-color: #323f4b;
+    padding: 0px;
+}
+
+.project-cards-image {
+    width: 100%;
+}
+
+.project-card-readmore {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.project-cards-paragraph {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.project-title-heading {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+
+
+.service-section-bg-container {
+    background-color: #52606d;
+    width: 100%;
+    height: 100%;
+}
+
+.service-section-heading {
+    color: #cced00;
+}
+
+.service-cards {
+    background-color: #323f4b;
+    border-radius: 15px;
+    padding: 17px;
+}
+
+.service-card-paragraph {
+    color: #9aa5b1;
+    font-size: 19px;
+}
+
+
+
+
+.workdone-section-bg-conatainer {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+}
+
+.Workdone-paragraph {
+    font-size: 15px;
+}
+
+.h-line {
+    background-color: white;
+    width: 60px;
+}
+
+
+
+
+
+
+.footer-section-container {
+    background-color: #0d2438;
+    padding: 15px;
+    width: 100%;
+    height: 100%;
+}
+
+.footer-section-bottom-container {
+    background-color: #001c32;
+    padding: 20px;
+}
+
+.footer-avatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.footer-section-name {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.footer-section-details {
+    color: #9aa5b1;
+}
